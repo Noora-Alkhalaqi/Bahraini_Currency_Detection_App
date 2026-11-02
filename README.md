@@ -9,8 +9,7 @@ A Streamlit app that finds Bahraini banknotes and coins in an image or camera fe
 - **Upload images:** run detection on one or more JPG, JPEG, PNG or WebP files.
 - **Take a photo:** capture a single image with your camera.
 - **Live camera:** see detections drawn on a real-time video stream.
-- **Value summary:** for uploads and photos, see the estimated total plus the count, average confidence and subtotal for each denomination.
-- **Adjustable settings:** change the confidence and NMS IoU thresholds from the sidebar.
+- **Value summary:** for uploads and photos, see the estimated total plus the count and subtotal for each denomination.
 
 ## Supported denominations
 
