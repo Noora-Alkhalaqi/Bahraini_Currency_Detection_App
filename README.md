@@ -2,6 +2,8 @@
 
 A Streamlit app that finds Bahraini banknotes and coins in an image or camera feed using a custom-trained YOLO26 model. For images and photos, it also adds up the total value in Bahraini dinars (BD).
 
+**Try it live:** [Bahraini Currency Detection App](https://bahrainicurrencydetectionapp.streamlit.app/)
+
 ## Features
 
 - **Upload images:** run detection on one or more JPG, JPEG, PNG or WebP files.
